@@ -4,7 +4,8 @@ body {
     font-family: Verdana;
     font-size: large;
     margin: auto;
-    background-color:Cornsilk;
+    /* background-color:Cornsilk; */
+    background-color:hsl(351, 89%, 77%)
     opacity: 0.9;
 }
 .logo {
@@ -47,7 +48,7 @@ height: 300px;
     font-size: 20px;
 }
 h1{
-    color:#E9967A;
+    color:rgb(205, 92, 92);
 }
 nav{
     color: rgb(205, 92, 92);
@@ -56,12 +57,12 @@ nav{
     font-size: 23px;  
 }
 footer {
-    color: rgb(205, 92, 92);
+    color: Black;
     text-align: center;
     font-style: bold;
     font-style: italic;
     font-size: 26px;  
-    background-color:#D8BFD8;
+    background-color:#FA8072;
     opacity: 0.8;
 }
 .git{
