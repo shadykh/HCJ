@@ -49,12 +49,23 @@ height: 300px;
 }
 h1{
     color:rgb(205, 92, 92);
+    text-align: center;
 }
 nav{
     color: rgb(205, 92, 92);
     font-style: bold;
-    font-style: italic;
-    font-size: 23px;  
+    font-size: 15px;  
+
+}
+.link{
+    /* text-decoration: none; */
+    background-color: #FA8072;
+    color: white;
+    padding: 3px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    opacity: 0.5;
 }
 footer {
     color: Black;
